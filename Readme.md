@@ -1,8 +1,6 @@
 Projeto do curso Web Design Completo, Origamid.
 
-Para visualizar o site, basta baixar em seu computador para qualquer pasta e abrir o arquivo index.html, que está dentro da pasta Bikcraft/web/
-
-Ou no link (temporário): https://bikcraft-personalizado.000webhostapp.com/
+Link: <a href="https://vinisantosj.github.io/Bikcraft/bikcraft/web/index.html">Bikcraft</a>
 
 Dentro da pasta "design", está o esboço do site, fotos, ícones e etc.
 
